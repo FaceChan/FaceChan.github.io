@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://facechen.github.io/sitemap.xml
+Sitemap: https://ai.aiministor.com/sitemap.xml
