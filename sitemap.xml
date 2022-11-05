@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ai.aiministor.com/post/</loc>
+    <lastmod>2022-10-20T22:56:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai.aiministor.com/</loc>
+    <lastmod>2022-10-20T22:56:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ai.aiministor.com/post/first/</loc>
+    <lastmod>2022-10-20T22:56:44+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ai.aiministor.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9,12 +30,6 @@
   
   <url>
     <loc>https://ai.aiministor.com/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ai.aiministor.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
