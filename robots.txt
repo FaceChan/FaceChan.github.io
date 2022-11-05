@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://facechen.github.io/sitemap.xml
