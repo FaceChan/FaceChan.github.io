@@ -2,21 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ai.aiministor.com/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/categories/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/posts/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/%E5%81%B7%E7%AA%A5/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/posts/2/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/categories/%E5%8D%81%E5%A4%9C/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/%E7%8C%8E%E5%A5%87/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/%E9%87%8E%E6%88%98/</loc>
+    <lastmod>2022-11-20T23:57:53+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/posts/1/</loc>
+    <lastmod>2022-11-20T18:01:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/%E7%A0%B4%E5%A4%84/</loc>
+    <lastmod>2022-11-20T18:01:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ai.aiministor.com/tags/%E8%BD%B6%E4%BA%8B/</loc>
+    <lastmod>2022-11-20T18:01:39+08:00</lastmod>
+  </url><url>
     <loc>https://ai.aiministor.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ai.aiministor.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai.aiministor.com/</loc>
-  </url><url>
     <loc>https://ai.aiministor.com/tags/index/</loc>
-  </url><url>
-    <loc>https://ai.aiministor.com/categories/</loc>
-  </url><url>
-    <loc>https://ai.aiministor.com/posts/</loc>
-  </url><url>
-    <loc>https://ai.aiministor.com/tags/</loc>
   </url><url>
     <loc>https://ai.aiministor.com/series/</loc>
   </url>
